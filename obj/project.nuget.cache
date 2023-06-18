@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "tsPAuGcfG5pNKp0vOmPmeyeArgR7M4L6SFDHFZ/LZxvjCUlzNO1+tkPChLljO3/D9EGHkaC+Qn7aS2cyxupRDw==",
+  "success": true,
+  "projectFilePath": "C:\\temp\\bcp\\BlazorCopilot1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\home\\.nuget\\packages\\azure.ai.openai\\1.0.0-beta.5\\azure.ai.openai.1.0.0-beta.5.nupkg.sha512",
+    "C:\\Users\\home\\.nuget\\packages\\azure.core\\1.30.0\\azure.core.1.30.0.nupkg.sha512",
+    "C:\\Users\\home\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\home\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\home\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\home\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\home\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\home\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\home\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

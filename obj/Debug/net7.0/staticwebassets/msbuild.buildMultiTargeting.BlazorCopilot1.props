@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BlazorCopilot1.props" />
+</Project>
